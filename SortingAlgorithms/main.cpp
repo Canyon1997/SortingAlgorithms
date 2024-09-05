@@ -52,7 +52,7 @@ void main()
 	{
 		printf("%d ", num);
 	}
-	printf("\n\n");
+	printf("\n");
 
 	
 
